@@ -1,13 +1,15 @@
-This is my Data Science Portfolio where I do all my AI work such as
+This is my Data Science Portfolio, where I do all my AI work, such as
 
--- Drone Racing Challenge where i used edge detenction to detect the arrows so robot can follow them
+-- Drone Racing Challenge, where I used edge detection to detect the arrows so the  robot could follow them
 
--- Portfolio 1 is basic cleaning on e commerce dataset
+-- Portfolio 1 is basic cleaning on the e-commerce dataset
 
--- Portfolio 2 is runing a logistic and linear regression on the ecommerse dataset
+-- Portfolio 2 is running a logistic and linear regression on the e-commerce dataset
 
--- Potfolio 3 is clustering and KNN
+-- Portfolio 3 is clustering and KNN
 
--- CardioVascular disease prediction(portfolio 4) where i ran machine leanring alogorithim to predict cardiovascular disease
+-- Cardiovascular disease prediction(portfolio 4), where I ran a machine learning algorithm to predict cardiovascular disease
 
--- AI Disaster Response where i can some genetic algorithims
+-- AI Disaster Response, where I ran some genetic algorithms to help a town organise their tools to manage a disaster
+
+-- Comp3410 Assignment 1 is where i run a IDS(Iterative Depth Search) to solve problems
