@@ -1,7 +1,7 @@
 This is my Data Science Portfolio where I do all my AI work such as
 
--- Drone Racing Challenge 
+-- Drone Racing Challenge where i used edge detenction to detect the arrows so robot can follow them
 
--- CardioVascular disease prediction
+-- CardioVascular disease prediction where i ran machine leanring alogorithim to predict cardiovascular disease
 
--- AI Disaster Response
+-- AI Disaster Response where i can some genetic algorithims
