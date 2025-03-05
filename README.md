@@ -14,4 +14,6 @@ AI Disaster Response: Applied genetic algorithms to help a town organize its too
 
 COMP3410 Assignment 1: Implemented Iterative Depth Search (IDS) to solve problems.
 
+Solar: linear regression on some real, aggregated time series data
+
 This portfolio showcases my journey in AI, machine learning, and data science projects.
